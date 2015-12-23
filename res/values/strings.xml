@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Restaurant Offers</string>
+    <string name="title_section1">IN YOUR CITY</string>
+    <string name="title_section2">NEARBY</string>
+    <string name="title_section3">BEST OFFERS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
